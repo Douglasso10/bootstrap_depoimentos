@@ -177,5 +177,15 @@
     bottom: 645px;
     height: 639px;
     padding-left: 45px;
-    
+}
+
+@media screen and (max-width:650px) {
+    .position_kira{
+        position: relative;
+        bottom: 0;
+        height: 400px;
+        padding-left: 45px;
+        width: 350px;
+        margin: 10px 0 0 0;
+    }
 }
