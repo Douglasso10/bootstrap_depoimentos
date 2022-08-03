@@ -5,10 +5,12 @@
     font-family: 'Barlow Semi Condensed', sans-serif;
 }
 
-/* CSS DO PERFIL DO DANIEL*/
+
+/* CSS DANIEL*/
 
 .conteiner_daniel{
     background-color: rgb(117, 65, 200);
+   
 }
 
 .img_daniel{
@@ -21,5 +23,150 @@
 }
 
 .nome_daniel{
-    padding: 0 0 0 0;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.verificado{
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.txt_daniel{
+    color: rgb(255, 255, 255);
+    padding: 0 50px 20px 0;
+}
+
+.txt_daniel2{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 13px;
+}
+
+/*CSS JONATHAN*/
+
+.conteiner_jonathan{
+    background-color: rgb(72, 85, 106);
+  
+}
+
+.img_jonathan{
+    width: 50px;
+    border: 2px solid rgba(207, 207, 207, 0.5);
+}
+
+.perfil_jonathan{
+    margin-left: 70px;
+}
+
+.nome_jonathan{
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.txt_jonathan{
+    color: rgb(255, 255, 255);
+    padding: 0 50px 20px 0;
+}
+
+.txt_jonathan2{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 13px;
+}
+
+/*CSS JEANNETE*/
+
+.conteiner_jeannete{
+    background-color:  rgb(255, 255, 255);
+}
+
+.img_jeannete{
+    width: 50px;
+    border: 2px solid rgba(207, 207, 207, 0.5);
+}
+
+.perfil_jeannete{
+    margin-left: 70px;
+}
+
+.nome_jeannete{
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.verificado_jeannete{
+    color:rgba(0, 0, 0, 0.5);
+}
+
+.txt_jeannete{
+    color: rgba(0, 0, 0, 0.5);
+    padding: 0 50px 20px 0;
+}
+
+.txt_jeannete2{
+    color: rgba(0, 0, 0, 0.3);
+    font-size: 13px;
+}
+
+/*CSS JONATHAN*/
+
+.conteiner_patrick{
+    background-color: hsl(233, 47%, 7%);
+
+   
+}
+
+.img_patrick{
+    width: 50px;
+    border: 2px solid rgb(117, 65, 200) ;
+}
+
+.perfil_patrick{
+    margin-left: 70px;
+}
+
+.nome_patrick{
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.verificado{
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.txt_patrick{
+    color: rgb(255, 255, 255);
+    padding: 0 50px 20px 0;
+}
+
+.txt_patrick2{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 13px;
+}
+
+/*CSS KIRA*/
+
+.conteiner_kira{
+    background-color:  rgb(255, 255, 255);
+    /*position: relative;
+    bottom: 584px;
+    height: 584px;
+    width: 336px;*/
+
+}
+
+.perfil_kira{
+    margin-left: 70px;
+}
+
+.nome_kira{
+    color: rgba(0, 0, 0, 0.8); 
+}
+
+.verificado_kira{
+    color:rgba(0, 0, 0, 0.5);
+}
+
+.txt_kira{
+    color:  rgb(72, 85, 106);
+    padding: 0 50px 20px 0;
+}
+
+.txt_kira2{
+    color: rgba(0, 0, 0, 0.3);
+    font-size: 13px;
 }
