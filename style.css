@@ -6,6 +6,7 @@
 }
 
 
+
 /* CSS DANIEL*/
 
 .conteiner_daniel{
@@ -169,4 +170,12 @@
 .txt_kira2{
     color: rgba(0, 0, 0, 0.3);
     font-size: 13px;
+}
+
+.position_kira{
+    position: relative;
+    bottom: 645px;
+    height: 639px;
+    padding-left: 45px;
+    
 }
